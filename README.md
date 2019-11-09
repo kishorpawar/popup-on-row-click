@@ -1,4 +1,4 @@
-clone this repo
-cd into project 
-run npm install
-run start
+- clone this repo
+- cd into project 
+- run `npm install`
+- run `npm start`
